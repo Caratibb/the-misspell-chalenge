@@ -1,23 +1,31 @@
-<!-- hide -->
-# The Misspell Challenge
-<!-- endhide -->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
+###
 
-## 🔷 How to fix a misspell on a 4Geeks Lesson:  
+<p align="left">My name is Cara and I'm a Data scientist and Machine learning Engineer from 4 Geeks.</p>
 
-![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+###
 
-1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
+<h2 align="left">About me</h2>
 
-2. Correct the misspelling of the lesson.
+###
 
-3. Finally, click on `"Pull Request"`.
+<p align="left">📚 I'm currently learning more about python, data scientist, and machine learning<br>🎯 Goals: increase my knowledge in machine learning and data analysis<br>🎲 Fun fact: I have been doing some kind of engineering or learning engineering for the past 5 years</p>
 
-## 📝 Instructions:
+###
 
-1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
+<h2 align="left">I code with</h2>
 
-> 👉 **IMPORTANT**: Please find another project to fix, this project has already been fixed enough 😂
+###
 
-This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
